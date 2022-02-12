@@ -1,0 +1,37 @@
+{
+"name": "kibbles-occultist",
+"title": "Kibbles' Occultist",
+"description": "The Foundry module for Kibbles' occultist.",
+"author": "KibblesTasty",
+"version": "0.8.0",
+"minimumCoreVersion": "0.6.0",
+"compatibleCoreVersion": "9",
+"manifest": "https://github.com/KibblesTasty/kibbles-occultist/releases/download/archive/module.json",
+"download": "https://github.com/KibblesTasty/kibbles-occultist/releases/download/archive/kibbles-occultist-main.zip",
+"keywords" : [
+			"classes",
+			"subclasses",
+			"occultist",
+			"witch",
+			"shamen",
+			"oracle",
+			"hedge mage",
+			"hedge wizard"
+		],
+"packs": [
+			{
+			"name": "kibbles-occultist",
+			"label": "Kibbles' Occultist",
+			"system": "dnd5e",
+			"path": "packs/kibbles-occultist.db",
+			"entity": "Item",
+			"module": "kibbles-occultist"
+			}
+		],
+"authors": [
+			{
+			  "name": "KibblesTasty",
+			  "url": "https://kthomebrew.com"
+			}
+		]
+}
